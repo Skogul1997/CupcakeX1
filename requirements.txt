@@ -1,6 +1,6 @@
 backports.functools-lru-cache==1.6.1
 Click==7.0
-cvxopt==1.2.3
+cvxopt==1.2.7
 cycler==0.10.0
 Flask==1.1.1
 intel-openmp==2019.0
