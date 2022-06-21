@@ -10,7 +10,7 @@ kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==2.2.4
 mkl==2019.0
-numpy==1.16.5
+numpy==1.22.0
 pyparsing==2.4.5
 python-dateutil==2.8.1
 pytz==2019.3
